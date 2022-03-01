@@ -13,10 +13,15 @@ Tenho 21 anos e estou cursando Sistema de Informação.
   
   #
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p>
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img height="75" width="75"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  </p>
   </div>
   
 #
