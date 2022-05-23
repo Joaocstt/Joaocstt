@@ -15,7 +15,6 @@ Tenho 21 anos e estou cursando Sistema de Informação.
   <div style="display: inline_block"><br>
   <p>
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
