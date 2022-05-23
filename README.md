@@ -1,6 +1,6 @@
 ## Salve, meu nome é João. 😎
 
-Tenho 21 anos e estou cursando Sistema de Informação.
+Tenho 22 anos e estou cursando Sistema de Informação.
 
 - 🌱 Estudando front-end
 - 💻 Atualmente trabalhando como TI no Sebrae-Ac
