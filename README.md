@@ -3,7 +3,7 @@
 Tenho 22 anos e estou cursando Sistema de Informação.
 
 - 🌱 Estudando front-end
-- 💻 Atualmente trabalhando como TI no Sebrae
+- 💻 Atualmente trabalhando como Professor de TI no Senai
 #
 <div align="center">
   <a href="https://beacons.ai.com/ShanksCode">
