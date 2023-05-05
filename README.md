@@ -19,7 +19,7 @@ Tenho 22 anos e estou cursando Sistema de Informação.
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img height="75" width="75"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+     <img height="75" width="75"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
 
   </p>
