@@ -1,9 +1,11 @@
-<h1 align="center">Hello 👋, my name is João Cláudio Pereira Santana</h1>
-<h3 align="center">I'm a front-end development student.</h3>
+<h1 align="center">Olá 👋, meu nome é João Cláudio Pereira Santana</h1>
+<h3 align="center">Sou estudante de desenvolvimento web.</h3>
 
-<p>💻 I work as an information technology instructor</p>
-<p>🎓 I’m graduated in information system</p>
-<p>📚 I love programming and learning new technologies</p>
+💻 Trabalho como instrutor de tecnologia da informação.
+
+🎓 Sou formado em sistemas de informação.
+
+📚 Adoro programação e aprender novas tecnologias.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
