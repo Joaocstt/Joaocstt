@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é João Cláudio Pereira Santana</h1>
-<h3 align="center">Sou estudante de desenvolvimento web.</h3>
+<h3 align="center">Desenvolvedor Back End.</h3>
 
 💻 Trabalho como instrutor de tecnologia da informação.
 
