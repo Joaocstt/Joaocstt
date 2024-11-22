@@ -1,5 +1,3 @@
-  
-
 <div align='center'>
 
 <div align="center">  
@@ -12,17 +10,15 @@
 
 </div>
 
-## Languages and Tools:
+## Linguagens e Ferramentas:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vite,php,laravel,py,vscode,git,github,mysql&theme=dark" />
 
-## About me
+## Sobre mim
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is João Claudio and I am a Web developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> I currently work as a software development instructor.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Typescript, React, Vue, TailwindCSS, Php, Laravel.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> I am always looking for opportunities and new challenges
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium-Light Skin Tone" width="25" height="25" /> Check out my website
- [nortepages] (https://www.nortepages.tech/)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão com Dedos Espalmados Tom de Pele Claro" width="25" height="25" /> Olá! Meu nome é João Claudio e eu sou um desenvolvedor web. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25" height="25" /> Atualmente, trabalho como desenvolvedor de Software.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Homem Tecnólogo Tom de Pele Claro" width="25" height="25" /> Minha principal stack é HTML, CSS, JavaScript, TypeScript, React, Vue, TailwindCSS, PHP, Laravel.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt="Mão Indicando para a Direita Tom de Pele Médio-Claro" width="25" height="25" /> Confira meu site: [nortepages](https://www.nortepages.tech/)!
 
 <br />
