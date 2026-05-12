@@ -6,29 +6,6 @@ Tenho experiência no desenvolvimento de aplicações utilizando tecnologias de 
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor com experiência em desenvolvimento web, criação de APIs, manutenção de sistemas e construção de soluções digitais.
-
-Atuo principalmente com **PHP, Laravel, JavaScript, TypeScript, React, Vue.js e TailwindCSS**, além de possuir experiência com **Java, Go e Python** no desenvolvimento de APIs, serviços e aplicações back-end.
-
-Gosto de criar sistemas organizados, funcionais e bem estruturados, sempre buscando melhorar a qualidade do código, a experiência do usuário e a escalabilidade das aplicações.
-
----
-
-## 🚀 Áreas de atuação
-
-- Desenvolvimento de sistemas web
-- Criação e manutenção de APIs REST
-- Desenvolvimento back-end
-- Desenvolvimento front-end
-- Integração entre sistemas
-- Desenvolvimento mobile com React Native/Expo
-- Manutenção e evolução de aplicações existentes
-- Modelagem e consumo de bancos de dados
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -51,15 +28,3 @@ Gosto de criar sistemas organizados, funcionais e bem estruturados, sempre busca
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
 
 </div>
-
----
-
-## 📌 Stack principal
-
-```txt
-Front-end:  HTML, CSS, JavaScript, TypeScript, React, Vue.js, TailwindCSS
-Back-end:   PHP, Laravel, Java, Spring Boot, Python, Go
-Mobile:     React Native / Expo
-APIs:       REST, integrações, autenticação e consumo de serviços externos
-Banco:      MySQL, PostgreSQL, SQL Server
-DevOps:     Docker, Git e GitHub
